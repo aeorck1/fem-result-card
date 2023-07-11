@@ -22,7 +22,7 @@ body {
 .card {
   color: white;
   width: 750px;
-  height: 500px;
+  height: 550px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
